@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/firebase/FirebaseUI-iOS'
   s.license      = { :type => 'Apache 2.0' }
   s.author       = 'Firebase'
-  s.source = { :git => 'git@github.com:klwoon/FirebaseUI-iOS.git', :tag => 'v3.1.1-dev' }
+  s.source = { :git => 'https://github.com/klwoon/FirebaseUI-iOS.git', :tag => 'v3.1.1-dev' }
   s.platform = :ios
   s.ios.deployment_target = '8.0'
   s.ios.framework = 'UIKit'
